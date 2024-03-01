@@ -10,20 +10,23 @@ We see three critical differences between programming and software engineering: 
 Vemos três diferenças críticas entre programação e engenharia de software: tempo, escala e as compensações em jogo. Em um projeto de engenharia de software, os engenheiros precisam estar mais preocupados com a passagem do tempo e com a eventual necessidade de mudanças. Numa organização de engenharia de software, precisamos de estar mais preocupados com a escala e a eficiência, tanto para o software que produzimos como para a organização que o produz. Finalmente, como engenheiros de software, somos solicitados a tomar decisões mais complexas com resultados de maior risco, muitas vezes baseados em estimativas imprecisas de tempo e crescimento.
 
 Resposta :
-
-
-
-
+Pelo que eu entendi engenharia de software é o setor que envolve todo um processo de planejamento, desenvolvimento, teste e manutenção de softwares de forma eficiente e confiável,criando Softwares bem projetados e desenvolvidos são mais confiáveis e seguros, no qual podem ajudar as empresas a serem mais produtivas e competitivas.
 
 Exercicio 2  
 
 Citar 03 exemplos de trade-offs 
 resposta 
 A) Python e JavA 
-Conforme discutida em java tem uma escrita de programação orientada aos objetos
-uma linguagem muito proxima ao hardware e Python é uma linguagem de programação de alto nível, interpretada de script, imperativa, orientada a objetos, funcional, de tipagem dinâmica e forte
+Python - Vantagen - Estrutura simples e intuitiva, permitindo um desenvolvimento mais ágil.
+         desvantagen- o que pode resultar em menor velocidade de execução em comparação com linguagens compiladas.
+Java - Vantagen - Compilado, proporcionando maior performance em tempo de execução.
+       Desvantagen - Curva de aprendizado mais íngreme para iniciantes em programação.
 
 B) linux x Windows 
+   Linux - O Linux oferece maior segurança, personalização e flexibilidade 
+   Windows - oferece maior compatibilidade de software, facilidade de uso e suporte oficia
 
-C) 
-
+C) VS Code   NetBeans
+   Vs Code - Mercado com uma ampla gama de extensões disponíveis para várias linguagens de programação, frameworks e funcionalidades.
+   NetBeans - Menor número de extensões disponíveis em comparação ao VS Code.
+             foco principal em extensões para desenvolvimento Java e tecnologias relacionadas.
