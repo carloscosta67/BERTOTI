@@ -30,3 +30,15 @@ C) VS Code   NetBeans
    Vs Code - Mercado com uma ampla gama de extensões disponíveis para várias linguagens de programação, frameworks e funcionalidades.
    NetBeans - Menor número de extensões disponíveis em comparação ao VS Code.
              foco principal em extensões para desenvolvimento Java e tecnologias relacionadas.
+             
+
+Exercicio 3
+Arquitetura, slides 24 - 29  ( trade-offs )
+
+slide 24 - Layered Architecture Style
+trade-offs 
+Essa arquitetura posso destacar Overall Cost ,
+
+
+
+
