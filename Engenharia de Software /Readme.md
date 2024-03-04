@@ -33,11 +33,34 @@ C) VS Code   NetBeans
              
 
 Exercicio 3
-Arquitetura, slides 24 - 29  ( trade-offs )
+Para cada arquitetura, escolha 2 requisitos não funcionais (um bom e outro ruim) e explique escolhendo um sistema para ser desenvolvido seguindo essa arquitetura
 
-slide 24 - Layered Architecture Style
-trade-offs 
-Essa arquitetura posso destacar Overall Cost ,
+Arquitetura, slides 24 - 29  ( trade-offs ) 
+
+slide 24 - Layered Architecture Style   ( sao usados em aplicações do dia a dia ) ( são base da internet, navegador, 
+Layered Architecture, também conhecida como Arquitetura em Camadas, é um padrão de design de software que organiza um sistema em camadas distintas e independentes.
+Podemos destacar a escalabilidade
+A Layered Architecture facilita a escalabilidade do sistema, pois cada camada pode ser dimensionada separadamente,
+Isso permite que o sistema suporte um maior número de usuários e um aumento na demanda sem comprometer o desempenho.
+trade - offs  -  Novas camadas acrescentam mais funcionalidades, acrescentando generalidade ao sistema, à custa de perder (em cada nível) um certo grau de desempenho
+ 
+slide 25  -  Pipeline Architecture Style ( é usado em aplicação ,chek out, dados de pgto )
+Ótimo para processamento simples e unidirecional devido à simplicidade desse estilo de arquitetura.
+Esse estilo de arquitetura é extensível e modular, pois novos filtros podem ser facilmente adicionados, substituídos e excluídos do sistema.
+trade - offs - Por ser um estilo de arquitetura monolítica, as implantações e os testes são difíceis. Mesmo mudanças simples exigem que todo o sistema seja totalmente testado e reimplantado.
+
+slide 26 - Microkernel Architecture Style ( é usado em sistema operacional, um sistema principal e diversos pluguins 
+
+slide 27 Service-Based Architecture Style ( sao usados em aplicações do dia a dia )
+
+slide 28 - Event-Driven Architecture Style ( são usados no sistema do pix , e intregar serviços )
+
+slide 29 - Microservices Architecture 
+
+ 
+
+
+
 
 
 
