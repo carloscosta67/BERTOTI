@@ -86,6 +86,18 @@ Exercicio 4
 Defina sua arquitetura debatendo compensações com os requisitos não funcionais comentados em aula:
 A arquitetura escolhida para ser usada em sistema para uma Adega de bebidas foi o :  “Estilo de arquitetura em camadas”, é um sistema simples de fácil manutenção aumentando a produtividade e diminuindo a complexidade e de baixo custo 
 
+Exercicio 5  
+
+Classes Uml 
+
+
+
+
+
+
+
+
+
  
 
 
